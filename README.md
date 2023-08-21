@@ -1,6 +1,6 @@
 # DSA-in-Rust
 This project consits of few  DSA concepts .
-''' bash
+```python
 DSA-in-Rust
 ├──data_struct
 |   ├──link_list.rs
@@ -12,4 +12,4 @@ DSA-in-Rust
 |   ├──bubble_sort.rs
 |   └──mearge_sort.rs
 └──README.md
-'''
+```
