@@ -1,3 +1,15 @@
 # DSA-in-Rust
-currently i am studing DSA , here is my code .
-If any one have any advise or suggestion you can comment to help me .
+This project consits of few  DSA concepts .
+''' bash
+DSA-in-Rust
+├──data_struct
+|   ├──link_list.rs
+|   └──stack.rs
+├──searching
+|   ├──binary.rs
+|   └──linear_search.rs
+├──sorting
+|   ├──bubble_sort.rs
+|   └──mearge_sort.rs
+└──README.md
+'''
